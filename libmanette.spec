@@ -1,4 +1,5 @@
-
+%define api		0.2
+%define major		0
 %define libname		%mklibname manette %{api} %{major}
 %define girmanettename	%mklibname manette-gir %{api}
 %define develname	%mklibname manette -d
