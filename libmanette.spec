@@ -6,7 +6,7 @@
 
 Name:           libmanette
 Version:	0.2.6
-Release:	4
+Release:	5
 Summary:        A simple GObject game controller library
 License:        LGPL-2.1-or-later
 Group:          System/Libraries
