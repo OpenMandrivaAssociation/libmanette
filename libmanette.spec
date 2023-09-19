@@ -6,12 +6,12 @@
 
 Name:           libmanette
 Version:	0.2.6
-Release:	6
+Release:	7
 Summary:        A simple GObject game controller library
 License:        LGPL-2.1-or-later
 Group:          System/Libraries
 URL:            https://gitlab.gnome.org/aplazas/libmanette/
-Source:         http://download.gnome.org/sources/libmanette/0.2/%{name}-%{version}.tar.xz
+Source:         https://download.gnome.org/sources/libmanette/0.2/%{name}-%{version}.tar.xz
 
 BuildRequires:  gobject-introspection-devel
 BuildRequires:  meson
