@@ -5,8 +5,8 @@
 %define develname	%mklibname manette -d
 
 Name:           libmanette
-Version:	0.2.7
-Release:	2
+Version:	0.2.9
+Release:	1
 Summary:        A simple GObject game controller library
 License:        LGPL-2.1-or-later
 Group:          System/Libraries
