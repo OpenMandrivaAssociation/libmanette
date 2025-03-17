@@ -20,6 +20,7 @@ BuildRequires:  pkgconfig(gudev-1.0)
 BuildRequires:  pkgconfig(libevdev)
 BuildRequires:  pkgconfig(vapigen)
 BuildRequires:	pkgconfig(gobject-introspection-1.0)
+BuildRequires:  pkgconfig(hidapi-hidraw)
 
 %description
 libmanette allows easy access to game controllers.
